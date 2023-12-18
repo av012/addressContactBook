@@ -10,7 +10,6 @@ This is a simple command-line contact management system written in C++. It allow
 
 - **Search by Name:** Users can search for a contact by entering the first name and last name.
 
-- **Persistence:** Contacts are stored in a dedicated directory, ensuring that they persist across different program sessions.
 
 
 
